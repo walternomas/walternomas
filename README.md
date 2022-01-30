@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @walternomas
-- 👀 I’m interested in LARAVEL
+- 👀 I’m interested in Web Full Stack.
 - 🌱 I’m currently learning Laravel & JavaScript.
 <!--
 - 💞️ I’m looking to collaborate on ...
