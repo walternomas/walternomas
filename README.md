@@ -1,6 +1,15 @@
 - 👋 Hi, I’m @walternomas
+
+~~~
+  const me = {
+    name: 'Walter Barrios',
+    degree: 'Informatics Engineer',
+    profession: 'Web developer'
+  }
+~~~
+  
 - 👀 I’m interested in Web Full Stack.
-- 🌱 I’m currently learning Laravel & JavaScript.
+- 🌱 I’m currently learning Laravel & NodeJS.
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
