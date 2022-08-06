@@ -8,7 +8,7 @@
   }
 ~~~
   
-- I’m currently developing with HTML, CSS, JavaScript, PHP using Laravel, NodeJS, Express and MySQL, MariaDB and PostgreSQL databases..
+- I’m currently developing with HTML, CSS, JavaScript, PHP using Laravel, NodeJS, Express and MySQL, MariaDB and PostgreSQL databases.
 
 <!--
 - 🌱 I’m currently learning Laravel & NodeJS.
