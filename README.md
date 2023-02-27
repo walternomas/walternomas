@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @walternomas
 
 ~~~
-  const me = {
+  let me = {
     name: 'Walter Barrios',
     degree: 'Informatics Engineer',
     profession: 'Web developer'
