@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Walter Barrios**
+- 👋 Hi, I’m **@walternomas**
 
 ~~~
   let me = {
